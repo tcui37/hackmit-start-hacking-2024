@@ -1,11 +1,12 @@
 # Node modules
 /frontend/node_modules/
 
-# Python virtual environment
-/backend/venv/
-
 # Build output
 /frontend/build/
+
+
+# Python virtual environment
+/backend/venv/
 
 # OS-specific files
 .DS_Store
